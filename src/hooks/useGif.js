@@ -1,5 +1,5 @@
 // import React from 'react'
-import axios from 'axios';
+import axios from 'axios';// its same as fetch data nothing difference
 import { useEffect } from 'react';
 import { useState } from 'react';
 
